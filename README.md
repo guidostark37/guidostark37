@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning android,web development, c#, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+git config --global color.ui true
 
 <!---
 guidostark37/guidostark37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
