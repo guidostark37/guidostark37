@@ -1,6 +1,6 @@
 <table border="0" style="border-collapse: collapse; border-spacing: 0;">
    <td width=25%" style="text-align: center; vertical-align: middle;"><img style="margin = auto;" src="https://github.com/guidostark37/guidostark37/assets/127701578/9c56b5b8-9f46-4d07-9979-95761b500d71" alt="Foto de perfil" width="100%"/></td>
-      <td width="70%" style="text-align: justify;"><h2>- 👋 Hi, I’m @guidostark37</h2>
+      <td width="70%" style="text-align: justify;"><h2 style="font-weight=bold;">- 👋 Hi, I’m @guidostark37</h2>
 <p>- 👀 I’m interested in programmer<br>
 - 🌱 I’m currently learning android,web development, c#, python, html, css, figma, kotlin<br>
 - 💞️ I’m looking to collaborate on ...</p>
@@ -18,7 +18,7 @@
 
 </table>
 # Mis redes <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Handshake.gif" height="32px">
-  <a href="https://twitter.com/juandiegows">
+  <a href="https://twitter.com/BanquethGuido">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Twitter.svg" />
   </a> &nbsp;&nbsp;
   
