@@ -18,6 +18,22 @@
 
 </table>
 # Mis redes <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Handshake.gif" height="32px">
+  <a href="https://twitter.com/juandiegows">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:bguido10@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Gmail.svg" />
+  </a>
+;
+  
+   <a href="https:/https://web.facebook.com/guido.banqueth/">
+    <img align="left" alt="guido | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/facebook.svg" />
+  </a> &nbsp;&nbsp;
 
 
 
