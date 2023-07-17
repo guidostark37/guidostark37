@@ -1,7 +1,9 @@
+
 <h2>- 👋 Hi, I’m @guidostark37</h2>
 <p>- 👀 I’m interested in programmer<br>
 - 🌱 I’m currently learning android,web development, c#, python<br>
 - 💞️ I’m looking to collaborate on ...</p>
+
 
 
 <!---
