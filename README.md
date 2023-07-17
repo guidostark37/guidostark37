@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @guidostark37
-- 👀 I’m interested in programmer
+<h2>- 👋 Hi, I’m @guidostark37</h2>
+<p>- 👀 I’m interested in programmer
 - 🌱 I’m currently learning android,web development, c#, python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...</p>
+
 
 <!---
 guidostark37/guidostark37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
