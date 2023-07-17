@@ -26,7 +26,7 @@
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="mailto:bguido10@gmail.com">
+  <a href="bguido10@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Gmail.svg" />
   </a>
 ;
