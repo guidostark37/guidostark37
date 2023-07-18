@@ -1,5 +1,5 @@
 <table border="0" style="border-collapse: collapse; border-spacing: 0;">
-   <td width=25%" style="text-align: center; vertical-align: middle;"><img style="margin = auto;" src="https://github.com/guidostark37/guidostark37/assets/127701578/9c56b5b8-9f46-4d07-9979-95761b500d71" alt="Foto de perfil" width="100%"/></td>
+   <td width=25%" style="text-align: center; vertical-align: middle;"><img style="margin = auto;" src="https://github.com/guidostark37/guidostark37/assets/127701578/61c7717f-097f-4a60-965f-b3973bbea1bf" alt="Foto de perfil" width="100%"/></td>
       <td width="70%" style="text-align: justify;"><h2 style="font-weight=bold;">- 👋 Hi, I’m @guidostark37</h2>
 <p>- 👀 I’m interested in programmer<br>
 - 🌱 I’m currently learning android,web development, c#, python, html, css, figma, kotlin<br>
@@ -29,13 +29,12 @@
   <a href="bguido10@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Gmail.svg" />
   </a>
-
-  
    <a href="https:/https://web.facebook.com/guido.banqueth/">
     <img align="left" alt="guido | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/facebook.svg" />
   </a> &nbsp;&nbsp;
 
 
+![guido](https://github.com/guidostark37/guidostark37/assets/127701578/61c7717f-097f-4a60-965f-b3973bbea1bf)
 
 <!---
 guidostark37/guidostark37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
