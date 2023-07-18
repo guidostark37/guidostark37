@@ -29,7 +29,7 @@
   <a href="bguido10@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Gmail.svg" />
   </a>
-;
+
   
    <a href="https:/https://web.facebook.com/guido.banqueth/">
     <img align="left" alt="guido | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/facebook.svg" />
