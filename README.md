@@ -34,7 +34,7 @@
   </a> &nbsp;&nbsp;
 
 
-![guido](https://github.com/guidostark37/guidostark37/assets/127701578/61c7717f-097f-4a60-965f-b3973bbea1bf)
+
 
 <!---
 guidostark37/guidostark37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
